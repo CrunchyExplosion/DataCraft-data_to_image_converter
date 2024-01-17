@@ -6,3 +6,9 @@ The code flow is this way
 4. Reconstructs a zip file and your data is decoded back to you.
 
 Please run these programs in the manner specified.
+
+named file formats in code are.
+input.zip -> bin_data_of_zip.bin   -> output.png -> output_bin_data.bin -> zip_reconstructed.zip
+Please do consider renaming in your code for your convenience.
+
+Thank You
