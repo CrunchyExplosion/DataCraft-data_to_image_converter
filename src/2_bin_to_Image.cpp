@@ -43,8 +43,8 @@ void encodeFileData(const string& fileData, Mat& videoFrame, int numRows, int nu
 }
 
 int main() {
-    // Read binary data from "input_data.bin"
-    ifstream inputFile("input_data.bin", ios::binary | ios::ate);
+    // Read binary data from "bin_data_of_zip.bin"
+    ifstream inputFile("bin_data_of_zip.bin", ios::binary | ios::ate);
     size_t dataSize = inputFile.tellg();
     inputFile.seekg(0, ios::beg);
     string fileData(dataSize, '\0');
