@@ -21,7 +21,6 @@ DataCraft is a C++ project focused on exploring techniques for concealing data w
 ## Project Structure
 
 - **src/ :** Contains the source code files.
-- **docs/ :** Documentation related to the project.
 - **LICENSE :** Project license information.
 - **README.md :** Project's main documentation file.
 
