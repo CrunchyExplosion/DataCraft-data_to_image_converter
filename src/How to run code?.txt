@@ -1,0 +1,8 @@
+The code flow is this way
+
+1. Takes input of zip file and convert it to a bin file which has its all binary data
+2. Convert the bin file to a PNG image that contains the data
+3. Convert back the PNG to a bin data
+4. Reconstructs a zip file and your data is decoded back to you.
+
+Please run these programs in the manner specified.
