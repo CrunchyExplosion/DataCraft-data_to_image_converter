@@ -12,7 +12,7 @@ DataCraft is a C++ project focused on exploring techniques for concealing data w
 
 - **Techniques Used:**
   - **Steganography:** Concealing data within PNG images.
-  - **Zip Integration:** Utilizing Zip compression for efficient data storage.
+  - **Binary Data Manipulation:** converting data for efficient data storage.
 
 - **Applications:**
   - **Image Steganography:** Conceal any data within images.
@@ -21,9 +21,7 @@ DataCraft is a C++ project focused on exploring techniques for concealing data w
 ## Project Structure
 
 - **src/ :** Contains the source code files.
-- **data/ :** Sample data for testing and demonstration.
 - **docs/ :** Documentation related to the project.
-- **examples/ :** Sample code snippets and use cases.
 - **LICENSE :** Project license information.
 - **README.md :** Project's main documentation file.
 
