@@ -1,4 +1,9 @@
-# DataCraft: Invisible Ink for Digital Age
+# DataCraft: Invisible Ink for Digital Age (Version 1.0 , C++)
+## This Repo is Version 1.0 , Next improved version 2.0 link is given
+
+# Version 2.0 (Python , Azure App Services , Cloud Hosted)
+## Website : https://datakraft.azurewebsites.net/
+## GitHub  : https://github.com/CrunchyExplosion/dataKraft
 
 ## Overview
 
